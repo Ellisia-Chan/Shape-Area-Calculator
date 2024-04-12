@@ -4,4 +4,5 @@
 ![Developer](https://img.shields.io/badge/Developer-ChristianJude23-blue)
 
 
-![image](https://github.com/ChristianJude23/Shape-Area-Calculator/assets/152279955/f9aa23b5-191b-4dc7-8c91-cd9aa2fb86e2)
+![image](https://github.com/ChristianJude23/Shape-Area-Calculator/assets/152279955/c47850cc-3117-4cf2-b96e-642df6996007)
+
